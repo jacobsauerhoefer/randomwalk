@@ -1,1 +1,1 @@
-# randomwalk.github.io
+# randomwalk
